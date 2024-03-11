@@ -8,7 +8,7 @@
 - [All ➤ Github Project](https://github.com/DarkWake9?tab=repositories)-->
 
 
-### Publications:
+### Research Projects:
 
 #### [IceCube-Package](https://github.com/DarkWake9/IceCube-Package)
 - A Stacked Search for Spatial correlations between [IceCube](https://icecube.wisc.edu/) neutrinos and Pulsars
