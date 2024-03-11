@@ -64,14 +64,14 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="[Vibhavasu Pasumarti](https://www.linkedin.com/in/vibhavasu-pasumarti-426017263/)">
+  <a href="https://www.linkedin.com/in/vibhavasu-pasumarti-426017263/">
    <img align="left" alt=" Vibhavasu Pasumarti | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:vibhavasu2018@gmail.com">
-    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="Vibhavasu Pasumarti | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://github.com/DarkWake9">
-    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="left" alt="Vibhavasu Pasumarti | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
 
