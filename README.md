@@ -39,6 +39,19 @@
 ![DarkWake9's Activity](https://github-readme-activity-graph.vercel.app/graph?username=DarkWake9&custom_title=Darkwake9's%20%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
+<h4> Connect with me🤝: <h4>
+  </hr>
+  <a href="[https://www.linkedin.com/in/om-patel-401068143/](https://www.linkedin.com/in/vibhavasu-pasumarti-426017263/)">
+   <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:vibhavasu2018@gmail.com">
+    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://github.com/DarkWake9">
+    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <br>
+
 #### ⚙️ &nbsp;GitHub Analytics
 <p align="left"><b>Profile Views 🔎 </b></p>
 <p align="left"><img src="https://profile-counter.glitch.me/DarkWake9/count.svg" alt="visitor badge"/></p>
