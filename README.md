@@ -1,7 +1,30 @@
+## 📌 Pinned Repositories
+<p>
+<br>
+
+<a href="https://github.com/DarkWake9/IceCube-Package">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkWake9&repo=IceCube-Package&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<be>
+
+<a href="https://github.com/DarkWake9/Project-QG">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkWake9&repo=Project-QG&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/DarkWake9/Project-LP">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkWake9&repo=Project-LP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+</p>
+<br>
 
 <p align="center">
     
-![Darkwake's github stats](https://github-readme-stats.vercel.app/api?username=DarkWake9&icons=true&bg_color=181818)        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarkWake9&theme=tokyonight-duo)](https://git.io/streak-stats)
+![DarkWake9's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkWake9&show_icons=true&theme=cobalt)        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarkWake9&theme=cobalt)](https://git.io/streak-stats)
 
 </p>
 <!--## My ➡︎ [Github Pages](https://DarkWake9.github.io/My-Github-Pages/)
@@ -41,8 +64,8 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="[https://www.linkedin.com/in/om-patel-401068143/](https://www.linkedin.com/in/vibhavasu-pasumarti-426017263/)">
-   <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <a href="[Vibhavasu Pasumarti](https://www.linkedin.com/in/vibhavasu-pasumarti-426017263/)">
+   <img align="left" alt=" Vibhavasu Pasumarti | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:vibhavasu2018@gmail.com">
     <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
