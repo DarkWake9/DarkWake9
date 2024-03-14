@@ -3,20 +3,20 @@
 <br>
 
 <a href="https://github.com/DarkWake9/IceCube-Package">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkWake9&repo=IceCube-Package&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkWake9&repo=IceCube-Package&theme=transparent" />
 </a>
 
 <be>
 
 <a href="https://github.com/DarkWake9/Project-QG">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkWake9&repo=Project-QG&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkWake9&repo=Project-QG&theme=transparent" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/DarkWake9/Project-LP">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkWake9&repo=Project-LP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkWake9&repo=Project-LP&theme=transparent" />
 </a>
 
 </p>
@@ -24,7 +24,7 @@
 
 <p align="center">
     
-![DarkWake9's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkWake9&show_icons=true&theme=cobalt)        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarkWake9&theme=cobalt)](https://git.io/streak-stats)
+![DarkWake9's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkWake9&show_icons=true&theme=transparent)        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarkWake9&theme=transparent)](https://git.io/streak-stats)
 
 </p>
 <!--## My ➡︎ [Github Pages](https://DarkWake9.github.io/My-Github-Pages/)
@@ -72,6 +72,9 @@
   </a>
   <a href="https://github.com/DarkWake9">
     <img align="left" alt="Vibhavasu Pasumarti | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <a href="https://orcid.org/0000-0003-4683-808X">
+    <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_32x32.png" width="26" height="26" />
   </a>
   <br>
 
