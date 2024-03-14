@@ -24,7 +24,7 @@
 
 <p align="center">
     
-![DarkWake9's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkWake9&show_icons=true&theme=transparent)        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarkWake9&theme=transparent)](https://git.io/streak-stats)
+![DarkWake9's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkWake9&show_icons=true&theme=transparent)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarkWake9&theme=transparent)](https://git.io/streak-stats)
 
 </p>
 <!--## My ➡︎ [Github Pages](https://DarkWake9.github.io/My-Github-Pages/)
