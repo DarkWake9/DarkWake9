@@ -59,7 +59,7 @@
 - EP4130 Course project: Exploring Benford's law for Products and some other Arithmetic Operations on Random Variables
 
 
-![DarkWake9's Activity](https://github-readme-activity-graph.vercel.app/graph?username=DarkWake9&custom_title=Darkwake9's%20%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<!--![DarkWake9's Activity](https://github-readme-activity-graph.vercel.app/graph?username=DarkWake9&custom_title=Darkwake9's%20%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)-->
 
 
 <h4> Connect with me🤝: <h4>
